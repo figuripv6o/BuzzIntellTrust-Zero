@@ -1,5 +1,6 @@
 # BuzzIntellTrust-Zero
-Purpose: Demonstrate constitutional, safety-first handling of calendar/email artifacts. Key Assertions No interception of communications No execution of untrusted content No outbound signaling or retaliation Machine-only observation (metadata) Offline analysis only
+Purpose: Document and demonstrate constitutional, safety-first handling of
+calendar and email trust artifacts under a Trust-Zero, non-interactive model.
 
 Buzzomatic Intelligence LLC  
 Trust-Zero Safety Architecture  
@@ -50,6 +51,7 @@ BuzzKey Lock protects:
 - Tokenized links
 - Embedded email objects
 - Hidden redirects and payloads
+- All actions are local, reversible, and non-destructive.
 
 It works by:
 1. Passive discovery (no interception)
@@ -71,13 +73,14 @@ Buzzomatic systems:
 
 Machines are observed.  
 People are protected.
+Observation is limited to exposed machine artifacts and configuration state.
 
 ---
 
 ## 📁 Repository Structure
 
 ```text
-/adrs        → Architecture decisions (binding)
+/adrs        → Binding architecture decisions
 /policy      → Safety, privacy, and BuzzLaw doctrine
-/compliance  → NIST / Zero Trust mappings & audit guidance
+/compliance  → NIST, Zero Trust, audit crosswalks mappings & audit guidance
 SECURITY.md  → Responsible disclosure
