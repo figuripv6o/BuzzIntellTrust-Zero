@@ -1,8 +1,9 @@
 # BuzzIntellTrust-Zero
 Purpose: Demonstrate constitutional, safety-first handling of calendar/email artifacts. Key Assertions No interception of communications No execution of untrusted content No outbound signaling or retaliation Machine-only observation (metadata) Offline analysis only
 
-# Buzzomatic Intelligence LLC
-## Trust-Zero Safety Architecture (FDF CERTIFIED™)
+Buzzomatic Intelligence LLC  
+Trust-Zero Safety Architecture  
+(FDF CERTIFIED™ · Governance-First · Non-Interactive)
 
 Buzzomatic Intelligence operates a **silent, defensive, Trust-Zero safety system** designed to protect modern digital surfaces—especially **email and calendar trust channels**—without interception, retaliation, or user surveillance.
 
